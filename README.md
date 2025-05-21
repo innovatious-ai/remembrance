@@ -46,12 +46,11 @@ CONTRIBUTING.md → Participation guidelines
 
 **Esra Korkmaz** – Founder & System Architect  
 Built from Soma, Manisa  
-Company registered in UK | Relocating for pilot deployment
-
-With co-founder **Oğuzhan [Last Name]** supporting legal & operational setup.
+Company registered in the UK | Aim to relocate for pilot deployment
 
 📫 Contact: founder@innovatious.ai  
 🔗 More: [https://github.com/innovatius-ai/remembrance](https://github.com/innovatius-ai/remembrance)
+Linkedin: https://www.linkedin.com/in/esrakorkmaz971/
 
 ---
 
