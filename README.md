@@ -10,11 +10,11 @@ This public repository documents the architecture, philosophy, and logic of the 
 
 **Remembrance** is the foundation of Innovatious AI, developed to serve:
 
-- Early mental health diagnostics (PsyForma)
-- Participatory policy simulations (PolicyLoop)
-- Traceable report generation (Syntari)
-- Ethical failure modeling (Flowbie)
-- Memory and audit infrastructure (Kuven, TraceAgent)
+- Early mental health diagnostics (**PsyForma**)
+- Participatory policy simulations (**PolicyLoop**)
+- Traceable report generation (**Syntari**)
+- Ethical failure modeling (**Flowbie**)
+- Memory and audit infrastructure (**Kuven**, **TraceAgent**)
 
 All components are modular agents, designed for adaptation within education, healthcare, and governance.
 
@@ -27,7 +27,7 @@ All components are modular agents, designed for adaptation within education, hea
 - APA7-compatible diagnostic outputs  
 - Transparent licensing: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-We don’t retrofit ethics. We start with it.
+> We don’t retrofit ethics. We start with it.
 
 ---
 
@@ -46,12 +46,12 @@ CONTRIBUTING.md → Participation guidelines
 
 **Esra Korkmaz** – Founder & System Architect  
 Built from Soma, Manisa  
-Company registered in the UK | Aim to relocate for pilot deployment
+Company registered in the UK
+
 
 📫 Contact: founder@innovatious.ai  
-🔗 More: [https://github.com/innovatius-ai/remembrance](https://github.com/innovatius-ai/remembrance)
-Linkedin: https://www.linkedin.com/in/esrakorkmaz971/
+🔗 Repository: [https://github.com/innovatius-ai/remembrance](https://github.com/innovatius-ai/remembrance)
 
 ---
 
-*We’re not building faster AI. We’re building one that remembers.*
+> *We’re not building faster AI. We’re building one that remembers.*
