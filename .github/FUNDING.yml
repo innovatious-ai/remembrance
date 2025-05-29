@@ -1,0 +1,8 @@
+# FUNDING.yml
+github: [innovatious-ai]  # Enable GitHub Sponsors for our organization
+open_collective: innovatious-ai  # Transparent nonprofit funding
+custom:
+  - "https://gitcoin.co/grants/1234/project-remembrance"  # Web3 regenerative funding
+  - "https://innovatious.ai/donate"  # Direct bank transfers (Wise)
+  - "https://corridor.earth/fund"  # SBT-gated trauma-sensitive donations
+  - "https://crisisrelief.un.org/gaza-crisis"  # UN humanitarian coordination
